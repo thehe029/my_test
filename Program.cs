@@ -10,6 +10,7 @@ namespace HelloWorldTestGIT
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World");
+            Console.WriteLine("Testing new branch");
             Console.ReadLine();
         }
     }
